@@ -3,7 +3,7 @@
 
 # サンプル
 - [トップページ](http://am1tanaka.github.io/tamant-hp/top/)
-- [詳細ページ](http://am1tanaka.github.io/tamant-hp/contents/)
+- [詳細ページ](http://am1tanaka.github.io/tamant-hp/contents/index-utf8.html)
 - [活動報告ページ](http://am1tanaka.github.io/tamant-hp/activities/)
 
 
