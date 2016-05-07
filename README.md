@@ -2,9 +2,20 @@
 多摩ニュータウン学会HP関連
 
 # 記事内のドメインの変更
-以下を参考に、まずはwww3で切り替えをためして手順化して、wwwへの切り替えに備える
+以下を参考に、www3の切り替えを試して手順化し、最終的にwwwに書き換える
 - http://fm575.net/?p=1480
 
+## 手順メモ
+- https://interconnectit.com/products/search-and-replace-for-wordpress-databases/ を開く
+- 参考サイトでは、3.0.0beta だと文字化けするということで古いバージョンをダウンロードしていたが、3.1.0が出ていたのでそちらを試す
+- サイト上部のDOWNLOADで Search-Replace-DB-master.zip をダウンロードして解凍
+- フォルダ名を任意の予測が難しいものに変更する
+- WordPressのインストールフォルダーにフォルダーをアップロードする。以下のような配置になる。間違えないこと！
+  - /your-secret-search-replace-folder
+  - /wp-admin
+  - /wp-content
+  - /wp-includes
+ 
 
 # WordPress変更メモ
 ## 2016/4/5
