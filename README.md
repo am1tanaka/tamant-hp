@@ -2,7 +2,10 @@
 多摩ニュータウン学会HP関連
 
 # サムネイルが崩れる
-- http://clubringo.com/wp%E7%94%BB%E5%83%8F%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3-nextgen-gallery-%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E3%81%8Cie%E3%81%A0%E3%81%A8%E3%80%81%E3%81%A1%E3%82%83%E3%82%93/
+- Regenerate Thumbnails プラグインをインストールして、サムネイルを再生成する
+
+# サムネイルの自動表示
+- http://webdesignerwork.jp/wordpress/auto_post_thumbnails/ 
 
 # 記事内のドメインの変更
 以下を参考に、www3の切り替えを試して手順化し、最終的にwwwに書き換える
